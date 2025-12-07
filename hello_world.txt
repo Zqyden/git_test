@@ -1,1 +1,1 @@
-Hello world, chicken
+This is a demo test of using terminal command
